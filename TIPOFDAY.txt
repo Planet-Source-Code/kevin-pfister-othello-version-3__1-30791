@@ -1,0 +1,6 @@
+Choose Are corners important in the menu, to choose if the AI should try and get the corners at all cost
+If the Save to Log menu option is checked, it will save the computers moves to a Log File
+If you are stuck us the Skip Go option in the Menu
+When Playing Othello, the Black Counter always moves first
+Choose a One or Two Player Game from the Menu 
+Tips of the Day can also be accessed through the Help Menu
